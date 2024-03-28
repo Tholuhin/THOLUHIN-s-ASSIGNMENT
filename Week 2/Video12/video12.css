@@ -1,0 +1,10 @@
+h1{
+    color: white;
+    background-color: orangered;
+}
+
+div {
+    width: 190px;
+    height: 20px;
+    background-color: rgb(220, 132, 132); 
+}
